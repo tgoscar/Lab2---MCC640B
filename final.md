@@ -1,7 +1,7 @@
 # Factorización de Enteros
 ## Algoritmos de Fermat y Reducción por Raíz Cuadrada
 **Criptografía — Implementación según clase**
-**Repositorio — [Implementación según clase](https://github.com/tgoscar/Lab2---MCC640B/edit/main)**
+**Repositorio — https://github.com/tgoscar/Lab2---MCC640B/edit/main**
 ---
 
 ## 01 — Descripción
